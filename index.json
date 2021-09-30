@@ -1,0 +1,18 @@
+{
+  "banking-n-finance":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/banking-n-finance.json",
+  "cigarettes":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/cigarettes.json",
+  "communications":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/communications.json",
+  "constructions":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/constructions.json",
+  "entertainment-n-tourism":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/entertainment-n-tourism.json",
+  "food-n-beverages":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/food-n-beverages.json",
+  "health-n-beauty-product":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/health-n-beauty-product.json",
+  "health-services":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/health-services.json",
+  "industrial-estates-offices":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/industrial-estates-offices.json",
+  "manufacturing":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/manufacturing.json",
+  "media":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/media.json",
+  "port-terminals":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/port-terminals.json",
+  "retail":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/retail.json",
+  "trading-companies":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/trading-companies.json",
+  "transport":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/transport.json",
+  "social-punishment":"https://raw.githubusercontent.com/watch-dog-mm/boycottapi/main/data/social-punishment.json"
+}
